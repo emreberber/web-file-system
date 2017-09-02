@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "short_name": "r",
+    "icons": [{
+        "src": "",
+        "type": "image/png",
+        "sizes": "144x144"
+    }, {
+        "src": "",
+        "type": "image/png",
+        "sizes": "192x192"
+    }],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": ""
+}
